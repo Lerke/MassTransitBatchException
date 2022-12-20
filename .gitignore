@@ -1,0 +1,14 @@
+
+Consumer/bin/
+
+Producer/bin/
+
+Producer/obj/
+
+Consumer/obj/
+
+.idea/
+
+Consumer/output - Copy.log
+
+Consumer/output.log
